@@ -1,5 +1,5 @@
 # DOCKLIO
-
+![Docklio Logo](https://github.com/vkalia602/Docklio/blob/master/Docklio%20Logo.png)
 ## Introduction
 Docklio uses the Twilio API to automatically build and deploy your app to AWS with SMS text
 
